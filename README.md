@@ -101,7 +101,7 @@ body::before {
 
 <p>渡米中の杉本さんからもご連絡いただきました。</p> 
 <div style=" background-color:grey;">
-<p><span class="yellow">
+<p>
 Tomiji Sugimoto<br>
 10:42<br>
 To 櫛田和光, "MASAYO, "加藤正彰さま, mm113.green@gmail.com, tomiji.sugimoto@tmg-n.com, gonnemomo@yahoo.co.jp, yoshi.0611yama@ezweb.ne.jp, m-tsuge0392@xb4.so-net.ne.jp, toshio.yokoyama@aist.go.jp, t_yaguchi@mtj.biglobe.ne.jp, youm01goka@gmail.com, shuichikato@mac.com, "YUJI, y-saito@its-jp.org, "TAKERO, mikoba254@gmail.com, 自分, "JUN, masashi.satomura.01@gmail.com, kzy.tamura@gmail.com, "KAZUYUKI<br><br>
@@ -119,7 +119,7 @@ To 櫛田和光, "MASAYO, "加藤正彰さま, mm113.green@gmail.com, tomiji.sug
 次回は出席出来るように頑張ります。<br><br>
 
 杉本
-</span>
+
 </p>
 </div>
 
