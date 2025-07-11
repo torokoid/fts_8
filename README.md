@@ -99,6 +99,35 @@ body::before {
 
 <br><br><br><br>
 
+<p>渡米中の杉本さんからもご連絡いただきました。</p> 
+<div style=" background-color:grey;">
+<p><span class="yellow">
+Tomiji Sugimoto<br>
+10:42<br>
+To 櫛田和光, "MASAYO, "加藤正彰さま, mm113.green@gmail.com, tomiji.sugimoto@tmg-n.com, gonnemomo@yahoo.co.jp, yoshi.0611yama@ezweb.ne.jp, m-tsuge0392@xb4.so-net.ne.jp, toshio.yokoyama@aist.go.jp, t_yaguchi@mtj.biglobe.ne.jp, youm01goka@gmail.com, shuichikato@mac.com, "YUJI, y-saito@its-jp.org, "TAKERO, mikoba254@gmail.com, 自分, "JUN, masashi.satomura.01@gmail.com, kzy.tamura@gmail.com, "KAZUYUKI<br><br>
+
+櫛田さん、皆さん、<br><br>
+
+今回は、出席出来ず残念でした。<br>
+日本のクソ暑い熱帯から逃れ、カルフォルニアのフリーモントに来ております。<br>
+ご存知の様にカルフォルニアは、日差しは強いものの日陰は涼しく快適です。<br>
+今日のゴルフのスコアは散々でしたが、ゴルフを終え娘一家の自宅庭でのビールは最高です。<br>
+明日はジャイアンツ対ドジャーズ戦を見に行って来ます。<br>
+では、皆様暑い夏を頑張って乗り切って下さい。<br>
+私はお盆明けの8/20に日本に戻ります。<br><br>
+
+次回は出席出来るように頑張ります。<br><br>
+
+杉本
+</span>
+</p>
+</div>
+
+<a href="20250710_034.JPG" target="_blank"><img src="20250710_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250710_035.JPG" target="_blank"><img src="20250710_035.JPG" alt="サンプル画像" width="900" /></a>
+
+
+
 <div style=" background-color:yellow;">
 <p><span class="yellow">
 MASAYO ARAI (荒井 雅代)<br>
