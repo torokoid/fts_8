@@ -58,7 +58,9 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2025年7月10日(木)リアル安否確認会の記録＠男前料理と五島列島直送の魚　神楽坂はずれ　無花果 !!!</marquee></span></h1>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	
+
+<a href="20250710_036.png" target="_blank"><img src="20250710_036.png" alt="サンプル画像" width="900" /></a>
+<p>この3枚は矢口さん撮影</p>
 <a href="20250710_001.JPG" target="_blank"><img src="20250710_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250710_002.JPG" target="_blank"><img src="20250710_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250710_003.JPG" target="_blank"><img src="20250710_003.JPG" alt="サンプル画像" width="900" /></a>
